@@ -10,5 +10,5 @@ Full code presented in 3_models.ipynb file.
 Link for training dataset: https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets/versions/17?resource=download&select=Bitcoin_tweets.csv
 
 BERT models: 
-> https://huggingface.co/yiyanghkust/finbert-tone
+> https://huggingface.co/yiyanghkust/finbert-tone<br>
 > https://huggingface.co/ElKulako/cryptobert
